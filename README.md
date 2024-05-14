@@ -1,0 +1,2 @@
+# GitCooperationSample2
+リモート上で空リポジトリ作成試行
